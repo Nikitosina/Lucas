@@ -1,3 +1,14 @@
 {
-    "name": "vibeApp"
+    "name": "vibeApp",
+    "defaultLanguage": "en",
+    "languages": ["ru", "en"],
+    "objects": [
+        {
+            "key": "are_you_sure",
+            "defaultString": "Are you sure?",
+            "translations": {
+                "ru": "Вы уверены?"
+            }
+        }
+    ]
 }
